@@ -1,0 +1,20 @@
+{
+  "window_title": "Roblox",
+  "keys": {
+    "accelerate": "W",
+    "brake": "S",
+    "handbrake": "SPACE",
+    "left": "A",
+    "right": "D",
+    "toggle": "F8",
+    "stop": "F9"
+  },
+  "road_sample_lab": [
+    9,
+    128,
+    128
+  ],
+  "color_tolerance": 35,
+  "car_x_fraction": 0.48,
+  "throttle_duty": 0.22
+}

@@ -1,0 +1,2 @@
+# Keep dependency versions in pyproject.toml; run from the repository root.
+-e .

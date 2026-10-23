@@ -1,0 +1,2 @@
+# Editable source installation with development checks.
+-e .[dev]
